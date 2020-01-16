@@ -1,0 +1,13 @@
+# environment
+.vscode
+extra_files
+
+# project exec
+http_server
+console.cgi
+test.cgi
+test2.cgi
+
+# bin
+bin
+command

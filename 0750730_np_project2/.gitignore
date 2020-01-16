@@ -1,0 +1,12 @@
+# vscode
+.vscode
+
+# bin
+bin/*
+!bin/.gitkeep
+np_multi_proc
+np_simple
+np_single_proc
+
+# tmp
+test2.html

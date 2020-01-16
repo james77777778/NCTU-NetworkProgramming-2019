@@ -1,0 +1,11 @@
+# bin
+bin/*
+!bin/.gitkeep
+npshell
+
+# vscode
+.vscode
+
+# temp
+*.txt
+test2.html
